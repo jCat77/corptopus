@@ -1,0 +1,13 @@
+com:
+  jcat:
+    app:
+      c-1:
+        o-data:
+          host: msk1.1cfresh.com
+          port: 443
+          proto: https
+          service: /a/eac/3231313/odata/standard.odata/
+          user: odata.user
+          password: Kitaeza171089
+
+
